@@ -1,2 +1,2 @@
 # test
-study for yoyoyoy
+This is the day for joining the Github of my own.
